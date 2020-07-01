@@ -7,7 +7,7 @@ Areas covered
 - Reading local csv
 - Creating table based on local csv structure
 - Inserting local csv records into created table
-- Updating create table records' value
+- Updating created table records' value
 - Conditional manipulation (if... else...)
 - Aggregation manipulation (group by...)
 - Window manipulation (dense_rank...)
